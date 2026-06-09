@@ -1,0 +1,10 @@
+{
+  "id": 139113587,
+  "created_at": "2026-06-09T13:58:58.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["socR"]
+}
