@@ -6,3 +6,7 @@
 	path = socR
 	url = https://github.com/danielruss/socR
 	branch = main
+[submodule "soccerrsr"]
+	path = soccerrsr
+	url = https://github.com/danielruss/soccerrsr
+	branch = main
