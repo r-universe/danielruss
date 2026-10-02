@@ -2,6 +2,10 @@
 	path = .registry
 	url = https://github.com/danielruss/danielruss.r-universe.dev
 	branch = HEAD
+[submodule "qcdd"]
+	path = qcdd
+	url = https://github.com/danielruss/qcdd
+	branch = main
 [submodule "socR"]
 	path = socR
 	url = https://github.com/danielruss/socR
